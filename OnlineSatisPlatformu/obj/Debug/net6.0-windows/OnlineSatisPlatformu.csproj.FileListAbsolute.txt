@@ -1,0 +1,46 @@
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.exe
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.deps.json
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.runtimeconfig.json
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.dll
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.pdb
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.csproj.AssemblyReference.cache
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.csproj.GenerateResource.cache
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.GeneratedMSBuildEditorConfig.editorconfig
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.AssemblyInfoInputs.cache
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.AssemblyInfo.cs
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.csproj.CoreCompileInputs.cache
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.dll
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\refint\OnlineSatisPlatformu.dll
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.pdb
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.genruntimeconfig.cache
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\ref\OnlineSatisPlatformu.dll
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.frmMain.resources
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.ucProduct.resources
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.frmKargoSor.resources
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.frmAddProduct.resources
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.frmSepet.resources
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.frmSplash.resources
+D:\OKUL\ULUDAG\02-BAHAR DONEMI\VERI YAPILARI\ODEV\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.exe
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.deps.json
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.runtimeconfig.json
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.dll
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\bin\Debug\net6.0-windows\OnlineSatisPlatformu.pdb
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.frmAddProduct.resources
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.frmKargoSor.resources
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.frmMain.resources
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.frmSepet.resources
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.frmSplash.resources
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Forms.ucProduct.resources
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.dll
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\refint\OnlineSatisPlatformu.dll
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.pdb
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\OnlineSatisPlatformu.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Desktop\veriYapilariGrup4ProjeOdevi\OnlineSatisPlatformu\OnlineSatisPlatformu\obj\Debug\net6.0-windows\ref\OnlineSatisPlatformu.dll
